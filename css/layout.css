@@ -36,9 +36,9 @@ section.shadowlist {
   line-height: 0;
 }
 
-.borderright {
-  float: right;
-  display: inline;
+.border_right {
+  float: left;
+
 }
 
 .clear {
