@@ -38,7 +38,7 @@ section.shadowlist {
 
 .wrapper: {
   float:left;
-  display: inline-block;
+  display: inline;
 }
 
 .clear {
