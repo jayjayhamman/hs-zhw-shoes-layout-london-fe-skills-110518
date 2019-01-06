@@ -21,7 +21,8 @@ section.shadow2 {
 }
 
 section.shadowlist {
-  width: 34%;
+  width: 40%;
+  float:left;
 }
 
 .clearfix:after {
