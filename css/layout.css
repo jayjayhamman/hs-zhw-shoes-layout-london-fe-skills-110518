@@ -16,9 +16,11 @@ section.shadow1 {
 
 section.shadow2 {
   float:left;
-  width:31%;
-  margin: auto;
-  
+  width:33%;
+  margin: 1%
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
 }
 
 
