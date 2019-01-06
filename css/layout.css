@@ -20,6 +20,9 @@ section.shadow2 {
   margin: 1%
 }
 
+section.shadowlist {
+  margin: 1%;
+}
 
 .clearfix:after {
   content: ".";
